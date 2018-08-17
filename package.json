@@ -1,0 +1,33 @@
+{
+  "name": "generator-supermern",
+  "version": "0.0.1",
+  "description": "MERN boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennettyong/generator-supermern.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "react",
+    "express",
+    "mongodb",
+    "node",
+    "mern"
+  ],
+  "author": "Bennett Yong (H.yong.2@warwick.ac.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bennettyong/generator-supermern/issues"
+  },
+  "homepage": "https://github.com/bennettyong/generator-supermern#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.1.1"
+  },
+  "files": [
+    "app"
+  ]
+}
