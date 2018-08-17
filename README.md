@@ -1,0 +1,2 @@
+# generator-supermern
+MERN boilerplate
